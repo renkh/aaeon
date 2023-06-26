@@ -1,0 +1,13 @@
+[Match]
+Name=eth0
+
+[Address]
+Address=192.168.88.5/24
+
+[Network]
+DHCP=yes
+IPv4LL=yes
+MulticastDNS=yes
+
+[DHCP]
+ClientIdentifier=mac
